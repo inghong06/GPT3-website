@@ -1,11 +1,7 @@
-# Covid Dashboard
+# GPT-3
 ### [Live Site](https://tender-pike-304ece.netlify.app/)
 
-![Covid Dashboard](https://i.ibb.co/CthSsRF/gpt3-ikong.png)
-
-## Introduction
-
-This is a code repository for a covid-19 dashboard. This dashboard was created using ReactJS
+![GPT-3](https://i.ibb.co/Q65fWNL/gpt3-ikong.png)
 
 Design by [AR Shakir](https://www.arshakir.com/)
 
